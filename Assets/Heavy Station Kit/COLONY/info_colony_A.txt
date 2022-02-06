@@ -1,0 +1,77 @@
+﻿-------------
+DOCUMENTATION - https://www.dotteam.xyz/pdf/Heavy_Station_Kit_2021.pdf
+------------- 
+
+HEAVY STATION KIT
+
+--------------------
+C O L O N Y   2.60 A
+--------------------
+
+- Re-Submitted using LTS version, Unity 2019.4;
+- Updated FPC and other Scripts;
+- Updated Visuals, including Lighting and Post-Processing;
+- Updated Sounds. All sounds are brand new;
+- Replaced Sky;
+- Fixed some Textures and Meshes;
+- Reorganized Content to meet Asset Store Specifications.
+
+--------------------
+C O L O N Y   2.50 A
+--------------------
+
+Supporting Unity 2019.3.0+ with the additional package, which has:
+
+- Dependancy on "Standard Assets Characters Package" removed via deprecating the old/adding the new FPC (Class FPC);
+- Scripts updated with fixes and support for newer Unity versions;
+- All asset classes placed in common namespace DotTeam.HSK.
+
+The other package supporting 5.6.7 to 2019.2.21 is still available for download.
+
+-----------------
+C O L O N Y   2.50 A
+-----------------
+
+Supporting Unity 2019.3.0+ with the additional package, which has:
+
+- Dependancy on "Standard Assets Characters Package" removed via deprecating the old/adding the new FPC (Class FPC);
+- Scripts updated with fixes and support for newer Unity versions;
+- All asset classes placed in common namespace DotTeam.HSK.
+
+The other package supporting 5.6.7 to 2019.2.21 is still available for download.
+
+-----------------
+C O L O N Y   2.50 A
+-----------------
+
+SCRIPTING
+Corrected and amplified previous, and for widing the possibilities of the Kit made the New ones – all to work properly with the Unity 5.6.7 or higher.
+
+Includes Base v2.30, PLUS:
+- Added LODs
+- Added 'ForDev' Textures (ID, Height, Curv.)
+– Added new Prefabs
+– Additional Equipment Prefabs
+– Additional Furniture Prefabs
+- Additional Kitchen Prefabs
+
+------------------
+C O L O N Y   2.21
+------------------
+
+MODELING
+The new look for many objects. Flat surfaces got less tris. Round ones like the railings got more. To widen the possibilities new objects were added.
+
+MAPPING
+To reduce the drawcalls, most models were packet into themes. Each theme is a single Material.
+Some UVs has a bit of free space. This is reserved for future updates, so adding new objects will not require additional material.
+
+TEXTURING
+All the materials now has Metallic, Height and Occlusion maps, in addition to Albedo, Normal, and if it fits, Emission.
+
+– Fixed compability issue with Sci-Fi Heavy Station Kit base and hangars.
+
+
+
+https://dotteam.xyz
+info@dotteam.xyz

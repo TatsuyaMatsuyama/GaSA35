@@ -1,0 +1,564 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3236385234465748286
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5229252568053753319}
+  m_Layer: 0
+  m_Name: Sci Fi Table And Chairs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 4294967295
+  m_IsActive: 1
+--- !u!4 &5229252568053753319
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3236385234465748286}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1970661463015825057}
+  - {fileID: 6220837795489313273}
+  - {fileID: 2652411252496903213}
+  - {fileID: 2652411253850027659}
+  - {fileID: 2652411253638536156}
+  - {fileID: 2652411251969672548}
+  - {fileID: 2652411251970820912}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &95910857431191943
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5229252568053753319}
+    m_Modifications:
+    - target: {fileID: 1423320315570050335, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_Name
+      value: Sci Fi Chair 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.348
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9961947
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.08715578
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 190
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f5c2668278a6484f9e9e0d874235907, type: 3}
+--- !u!4 &2652411253850027659 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+    type: 3}
+  m_PrefabInstance: {fileID: 95910857431191943}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &95910857643343056
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5229252568053753319}
+    m_Modifications:
+    - target: {fileID: 1423320315570050335, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_Name
+      value: Sci Fi Chair 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.348
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9961947
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.08715588
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 170
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f5c2668278a6484f9e9e0d874235907, type: 3}
+--- !u!4 &2652411253638536156 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+    type: 3}
+  m_PrefabInstance: {fileID: 95910857643343056}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &95910858236423228
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5229252568053753319}
+    m_Modifications:
+    - target: {fileID: 1423320315570050335, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_Name
+      value: Sci Fi Chair 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f5c2668278a6484f9e9e0d874235907, type: 3}
+--- !u!4 &2652411251970820912 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+    type: 3}
+  m_PrefabInstance: {fileID: 95910858236423228}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &95910858237305448
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5229252568053753319}
+    m_Modifications:
+    - target: {fileID: 1423320315570050335, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_Name
+      value: Sci Fi Chair 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f5c2668278a6484f9e9e0d874235907, type: 3}
+--- !u!4 &2652411251969672548 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+    type: 3}
+  m_PrefabInstance: {fileID: 95910858237305448}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &95910858783394593
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5229252568053753319}
+    m_Modifications:
+    - target: {fileID: 1423320315570050335, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_Name
+      value: Sci Fi Chair 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.348
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.08715578
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9961947
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f5c2668278a6484f9e9e0d874235907, type: 3}
+--- !u!4 &2652411252496903213 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+    type: 3}
+  m_PrefabInstance: {fileID: 95910858783394593}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6550495507473410253
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5229252568053753319}
+    m_Modifications:
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8640827710164452479, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+        type: 3}
+      propertyPath: m_Name
+      value: Sci Fi Table
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9cc76eb4c9715134a9672ed0ceb37d32, type: 3}
+--- !u!4 &1970661463015825057 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4733629406791251564, guid: 9cc76eb4c9715134a9672ed0ceb37d32,
+    type: 3}
+  m_PrefabInstance: {fileID: 6550495507473410253}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8344928844591290101
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 5229252568053753319}
+    m_Modifications:
+    - target: {fileID: 1423320315570050335, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_Name
+      value: Sci Fi Chair 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.348
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.08715578
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9961947
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3f5c2668278a6484f9e9e0d874235907, type: 3}
+--- !u!4 &6220837795489313273 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2710040602731390732, guid: 3f5c2668278a6484f9e9e0d874235907,
+    type: 3}
+  m_PrefabInstance: {fileID: 8344928844591290101}
+  m_PrefabAsset: {fileID: 0}
